@@ -60,7 +60,7 @@ top:
 	@echo
 
 clean:
-	rm -f obj/*.o
+	rm -rf obj
 	rm -f src/*.o
 	rm -f Hello
 
