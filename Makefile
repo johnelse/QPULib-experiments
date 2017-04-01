@@ -60,7 +60,7 @@ top:
 	@echo
 
 clean:
-	rm -rf obj
+	rm -rf obj obj-qpu
 	rm -f src/*.o
 	rm -f Hello
 
